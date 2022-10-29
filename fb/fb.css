@@ -1,0 +1,85 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+
+}
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+
+
+}
+.logo-text{
+    color: white;
+    
+    font-size: 48px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 170px;
+    
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+
+}
+.login-controls{
+    margin-left: 115px;
+}
+.forgotten{
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+   
+}
+.login-button{
+
+    background-color: #4267b2;
+    color: white;
+    height: 20px;
+    border-color: #29487d;
+    margin: 0%;
+
+}
+.login-button:hover{
+    background: red;
+}
+.left-sec{
+    width: 51%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-sec{
+    width: 40%;
+    float: right;
+
+}
+.main-body{
+    background: linear-gradient(white,#4267b2);
+    height: 670px;
+    width: 100%;
+
+}
+.para{
+    font-weight: bold;
+    font-size: 22px;
+    
+
+}
+.rhead{
+    font-size: 28px;
+    font-weight: bold;
+}
